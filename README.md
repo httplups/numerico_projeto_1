@@ -1,1 +1,2 @@
-# numerico_projeto_1
+# MS211 - M 
+Feito por Bruna Dias e Luana Barros
